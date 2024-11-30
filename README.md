@@ -120,7 +120,9 @@ https://github.com/user-attachments/assets/753b3ac5-ee2d-4176-bb74-15c2a446380b
 4. "Thumb orientation photo training"
 ```
 
+
 ![Screenshot from 2024-11-21 20-15-42](https://github.com/user-attachments/assets/a9084f30-7b82-4cbb-94a6-bd2273331c10)
+-> "Accumulate photo data while clicking the add button"
 ###
 ```
 5. "Thumb orientation photo prediction completed"
