@@ -1,7 +1,7 @@
 #### day 1 : 
 
 ```
-1. "Jackson Nano Assembly"
+1. "Jetson Nano Assembly"
 ```
 
 ![KakaoTalk_20241128_214356790_04](https://github.com/user-attachments/assets/1bc22d5f-6785-476f-ac9a-f135a0e2cbf7)
